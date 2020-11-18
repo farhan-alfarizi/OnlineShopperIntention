@@ -1,6 +1,6 @@
 # OnlineShopperIntention
 
-Berikut adalah project Data Mining saya. Tujuannya adalah mencari insight dari data dengan melakukan Exploratory Data Analysis (EDA) dan melakukan clustering untuk tipe jenis customer dari Exit Rates dan Bounce Rates pada beberapa tipe laman yang dikunjungi.
+Berikut adalah project Data Mining saya. Tujuannya adalah mencari insight dari data dengan melakukan Exploratory Data Analysis (EDA) dan melakukan clustering untuk tipe jenis customer dari Exit Rates dan Bounce Rates pada beberapa tipe laman yang dikunjungi. Selanjutnya, akan diberikan rekomendasi-rekomendasi berdasarkan insight dan cluster pada data untuk meningkatkan kepuasan customer atau menaikkan revenue.
 Dataset ini terdiri dari 10 variabel numerik dan 8 variabel kategorik, dengan deskripsi sebagai berikut
 1. Administrative, Informational, Product Related : Mempresentasikan angka dari
 berbagai tipe halaman yang dikunjungi pengunjung pada sesi tersebut. (tipe halaman)
